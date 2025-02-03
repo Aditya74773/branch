@@ -1,2 +1,5 @@
+HEAD
 hii
 New line in file4.txt
+ bye
+ newfeature
